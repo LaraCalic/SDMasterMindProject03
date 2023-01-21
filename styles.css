@@ -1,0 +1,38 @@
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+font-family: "Dosis", Arial;
+background-image: linear-gradient(gray);
+}
+
+.main-container{
+background-color: red
+min-height: 100vh; 
+display: flex; 
+flex-direction: column; 
+align-items: center; 
+justify-content: center; 
+}
+
+h1 {
+  font-size: 3.5rem; 
+  margin-bottom: 100px; 
+}  
+
+.clock-container{
+  font-size: 3rem; 
+  margin-bottom: 100px;
+  letter-spacing: 0.3rem; 
+  width: 25%;
+  position: relative; 
+}
+
+.date-container{
+font-size: 2.5rem; 
+}
