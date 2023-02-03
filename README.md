@@ -1,11 +1,9 @@
 # SDMasterMindProject03
-This project creates a digital clock using HTML, CSS & Javascript
-
 
 
 This project shows how to build a digital clock with **HTML, CSS and JavaScript**. 
 
-This is the how it should look like: 
+This is how it should look like: 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/81815115/216552171-2cbc632f-0c6d-4e05-ac9e-03925ab61202.png">
 </p>
@@ -16,3 +14,4 @@ The repository contains 3 main files: index.html, main.css, and main.js. Adding 
 
 
 
+-- Author: Lara Calic -- Full Stack Developer
